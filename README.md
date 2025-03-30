@@ -14,3 +14,5 @@ CSS: For styling the layout and design elements.
 How to Use:
 Clone the repository to your local machine.
 Open the yt.html file in your browser to view the YouTube clone in action.
+
+https://github.com/user-attachments/assets/445b3f54-63e4-46b5-a6b6-26f2862d2cb3
